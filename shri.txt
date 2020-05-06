@@ -1,0 +1,6 @@
+this is first file added using echo
+
+
+Using vi mod
+e
+
